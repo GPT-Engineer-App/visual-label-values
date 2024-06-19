@@ -87,7 +87,7 @@ const Index = () => {
           <Box w="full">
             <Text fontWeight="bold" color="blue.600">Email_body:</Text>
             <Text color="gray.700">
-              Sehr geehrte Damen und Herren, unsere Leistung wurde wie vereinbart erbracht. Wahrscheinlich ist es Ihrer Aufmerksamkeit entgangen, dass die dazugehörige Rechnung [R2002880] zur Zahlung fällig ist. Zahlungseingänge bis 10.06.2024 sind berücksichtigt. Wir bitten daher um schnellstmögliche Überweisung des fälligen Betrages. Falls dies bereits geschehen ist, betrachten Sie dieses Schreiben bitte als gegenstandlos. Fragen beantworten wir Ihnen gerne per Mail unter <mailto:> Rechnungsnummer: 2002880 Rechnungsdatum: 02.04.2024 Fälligkeitsdatum: 02.04.2024 Inhalt: Abrechnung Managed Service Leistungen 01.04.24-30.06.24 Rechnungsbetrag: € 1.713,60 OFFEN: € 1.713,60
+              Sehr geehrte Damen und Herren, unsere Leistung wurde wie vereinbart erbracht. Wahrscheinlich ist es Ihrer Aufmerksamkeit entgangen, dass die dazugehörige Rechnung [R2002880] zur Zahlung fällig ist. Zahlungseingänge bis 10.06.2024 sind berücksichtigt. Wir bitten daher um schnellstmögliche Überweisung des fälligen Betrages. Falls dies bereits geschehen ist, betrachten Sie dieses Schreiben bitte als gegenstandlos. Fragen beantworten wir Ihnen gerne per Mail unter mailto: Rechnungsnummer: 2002880 Rechnungsdatum: 02.04.2024 Fälligkeitsdatum: 02.04.2024 Inhalt: Abrechnung Managed Service Leistungen 01.04.24-30.06.24 Rechnungsbetrag: € 1.713,60 OFFEN: € 1.713,60
             </Text>
           </Box>
         </VStack>
